@@ -1,6 +1,7 @@
 # Recursion Problems
 
 ## Definitions
+
 Define the following: 
 - Recursion
 - Recursive Case
@@ -10,7 +11,10 @@ Define the following:
 - Infinite Recursion/Stack Overflow/Stack too deep
 - Tail Recursion
 
+This assignment is due **Monday October 7th**
+
 ## Tracing through a recursive method. Time & Space complexity.
+
 ### Trace #1
 ```ruby
 def mystery1(n)
