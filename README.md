@@ -7,9 +7,7 @@ Define the following:
 - Recursive Case
 - Base Case
 - Activation Chain/Function Call Stack
-- Activation Record/Function Call
-- Infinite Recursion/Stack Overflow/Stack too deep
-- Tail Recursion
+- Infinite Recursion/Stack Overflow
 
 This assignment is due **9:00am Thursday October 10th**
 
